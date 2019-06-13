@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node Starter Template using palin node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "Node",
+    "starter",
+    "core",
+    "node",
+    "using",
+    "htttp"
+  ],
+  "author": "Putta Nikhilesh Reddy",
+  "license": "ISC"
+}
