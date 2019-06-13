@@ -3,13 +3,13 @@
 
 # Clone the project 
 
-1. Open current folder in command prompt and 
-    > For sample core Node use node folder 
-       node-starter> cd node 
+* Open current folder in command prompt and 
+    * For sample core Node use node folder 
+        * cd node 
         > For runing the project 
-            npm start
-    > For Express 
+         * node> npm start
+    * For Express 
         * cd express
         > For runing the project 
-            npm install
-            npm start
+         * express> npm install
+         * express> npm start
